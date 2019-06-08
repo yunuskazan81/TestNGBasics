@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test">
+  <test name="Sprint 1">
+    <classes>
+      <class name="com.class02.SmartbearsoftwareExample"/>
+    </classes>
+    </test>
+    
+    <test name="Sprint 2">
+    <classes>
+    <class name="groupMiamiHomeWork.TestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

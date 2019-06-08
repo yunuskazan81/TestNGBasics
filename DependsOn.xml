@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name= "Sprint 2" >
+<test name= "System Integration Test">
+<groups>
+<run>
+<include name = "Smoke">
+
+</include>
+
+</run>
+</groups><class name="com.class03.DependsOnMethods">
+</class>
+</test>
+</suite>
