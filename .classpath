@@ -27,5 +27,6 @@
 	<classpathentry kind="lib" path="/Users/yunuskazan/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yunuskazan/commons-io-2.6/commons-io-2.6-tests.jar"/>
 	<classpathentry kind="lib" path="/Users/yunuskazan/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/yunuskazan/Downloads/java-client-7.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
